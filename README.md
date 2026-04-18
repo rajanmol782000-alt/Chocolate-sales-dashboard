@@ -61,6 +61,5 @@ It analyzes chocolate sales data to generate business insights on revenue, profi
 
 This dashboard provides actionable insights into sales performance and helps in data-driven decision making.
 
-📷 Dashboard Preview
 
 
